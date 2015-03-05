@@ -1,9 +1,9 @@
 # Зміст
 
-Selectors
-Email Validation
-Center an Element
-Image Preloader
-Modify color placeholder
-Get page load time via Javascript and jQuery
-Google Map
+Selectors <br>
+Email Validation <br>
+Center an Element <br>
+Image Preloader<br>
+Modify color placeholder<br>
+Get page load time via Javascript and jQuery<br>
+Google Map<br>
