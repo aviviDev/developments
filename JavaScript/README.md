@@ -23,3 +23,15 @@ Just a little snippet to add Google Map in the blocks with the class "gogoMap" (
 For this snippet you need Modernizr to detect touch screen.
 Your block need data attributes "lat", "lng", "title", "content".
 When the window resize the marker stay center.
+
+####browser
+Функция проверки браузера
+
+####Проверка на ОS
+Функция проверки ОС
+
+####Скриваем Popup при клике по overlay.js
+Скриваем Popup при клике по overlay
+
+####скриваем PopUp
+Функция скрития Popup при клике по оверлей, ESC
